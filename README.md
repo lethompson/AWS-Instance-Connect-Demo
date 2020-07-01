@@ -27,3 +27,4 @@ You can connect to an instance using the browser-based client by selecting the i
 
 A window opens, and you are connected to your instance.
 
+![image-1](https://github.com/lethompson/AWS-Instance-Connect-Demo/blob/master/Ec2-instance-connect-server-browser.png)
