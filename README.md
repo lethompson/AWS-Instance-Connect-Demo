@@ -12,3 +12,15 @@
 ```
 > sudo yum install ec2-instance-connect
 ```
+### Step 3: Connect using the browser-based To connect to your instance using the browser-based client from the Amazon EC2 console
+
+* Open the Amazon EC2 console at https://console.aws.amazon.com/ec2/
+* In the navigation pane, choose Instances.
+You can connect to an instance using the browser-based client by selecting the instance from the Amazon EC2 console and choosing to connect using EC2 Instance Connect. Instance Connect handles the permissions and provides a successful connection.
+
+#### To connect to your instance using the browser-based client from the Amazon EC2 console
+
+* Open the Amazon EC2 console at https://console.aws.amazon.com/ec2/
+* In the navigation pane, choose ```Instances```.
+* Select the instance and choose ```Connect```.
+* Choose EC2 Instance Connect ```(browser-based SSH connection), Connect```.
