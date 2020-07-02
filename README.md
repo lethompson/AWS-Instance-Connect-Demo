@@ -27,4 +27,6 @@ You can connect to an instance using the browser-based client by selecting the i
 * Select the instance and choose ```Connect```.
 * Choose EC2 Instance Connect ```(browser-based SSH connection), Connect```.
 
+![window-2](https://github.com/lethompson/AWS-Instance-Connect-Demo/blob/master/Ec2-instance-connect-server-browser.png)
+
 A window opens, and you are connected to your instance.
